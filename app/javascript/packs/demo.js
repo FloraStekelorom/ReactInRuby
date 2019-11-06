@@ -1,3 +1,4 @@
+// demo.js
 import '@src/demo';
 
 <%= javascript_packs_with_chunks_tag 'demo', 'application' %>

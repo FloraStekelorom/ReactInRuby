@@ -1,8 +1,2 @@
 // home.js
 import '@src/home';
-
-<%= javascript_packs_with_chunks_tag 'home', 'application' %>
-<%= stylesheet_packs_with_chunks_tag 'home', 'application' %>
-<!-- Use the following when not using split chunks -->
-<!--<%= javascript_pack_tag 'home' %>-->
-<!--<%= stylesheet_pack_tag 'home' %>-->
